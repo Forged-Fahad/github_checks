@@ -5,6 +5,7 @@ pasta_function()
 
 def cracks():
     print(f"Cocomelon is a nice cartoon")
+    print(f"Making a branch function for remote upstream branch")
 
 def pepe_function():
     print(f"Confusion of the highest orda!!! ")
